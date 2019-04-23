@@ -9,14 +9,17 @@
     </head>
     <body>
         <img align="left" src="images/MyLogo.PNG" height="15%" width="15%"/><br><br><br><br><br><br><br>
-        <h1> Linux <h1>
-        <h2> Redhat Centos Ubuntu <h2>
-        <h1> DEVOPS TOLLS </h1>
-        <h2> Git  Maven Jenkins Chef Ansible Dockers Kubernates </h2>
-        <h1> AWS Services </h1>
-        <h2> EC2 IAM S3 VPC ELB EBS EFS </h2>
-        This is testing java web application page <b>version 1.0</b><br><br>
-        <div>Enjoy! -- https://selfieblue.wordpress.com</div>
-    
+       
+        <h1> LINUX </h1>
+        <h2> 1.Redhat  2.Centos  3.Ubuntu </h2>
+           
+        <h1> SCRIPTINS </h1>
+        <h2> 1.Shell Scripting  2.Python Scripting  3.Yaml  4.Ruby  5.Groovy </h2>
+           
+        <h1> DEVOPS TOOLS </h1>
+        <h2> 1.Git  2.Maven 3.Jenkins 4.Chef 5.Ansible 6.Dockers 7.Kubernates </h2>
+           
+        <h1> AWS SERVICES </h1>
+        <h2> 1.EC2  2.IAM  3.S3  4.VPC  5.ELB  6.EBS  7.EFS  8.CloudFront 9.CloudTrail 10.CloudWatch </h2>   
     </body>
 </html>
