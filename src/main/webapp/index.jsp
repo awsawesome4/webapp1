@@ -9,10 +9,12 @@
     </head>
     <body>
         <img align="left" src="images/MyLogo.PNG" height="15%" width="15%"/><br><br><br><br><br><br><br>
-        <h1>Hello Mr MALLIKARJUNA !</h1>
-        <h2>Hello Mr ASIF !</h2>
-        <h3>Hello Mr KRISHNA !</h3>
-        <h4>Hello Mr NAGARJUNA !</h4>
+        <h1> Linux <h1>
+        <h2> Redhat Centos Ubuntu <h2>
+        <h1> DEVOPS TOLLS </h1>
+        <h2> Git  Maven Jenkins Chef Ansible Dockers Kubernates </h2>
+        <h1> AWS Services </h1>
+        <h2> EC2 IAM S3 VPC ELB EBS EFS </h2>
         This is testing java web application page <b>version 1.0</b><br><br>
         <div>Enjoy! -- https://selfieblue.wordpress.com</div>
     
