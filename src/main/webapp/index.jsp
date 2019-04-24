@@ -10,7 +10,7 @@
     <body>
        
         <h1> Mallikarjun <h1>
-        <img align="left" src="images/MyLogo.PNG" height="15%" width="15%"/><br><br>
+        <img align="left" src="images/MyLogo.PNG" height="15%" width="15%"/><br><br><br><br>
        
         <h1> LINUX </h1>
         <h2> 1.Redhat  2.Centos  3.Ubuntu </h2>
