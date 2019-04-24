@@ -8,6 +8,8 @@
         <title>maven-webapp1</title>
     </head>
     <body>
+       
+        <h1> Mallikarjun <h1>
         <img align="left" src="images/MyLogo.PNG" height="15%" width="15%"/><br><br><br><br><br><br><br>
        
         <h1> LINUX </h1>
